@@ -1,6 +1,6 @@
-package com.apimed.api.Medico;
+package com.apimed.api.domain.medico;
 
-import com.apimed.api.Endereco.Endereco;
+import com.apimed.api.domain.endereco.Endereco;
 
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
